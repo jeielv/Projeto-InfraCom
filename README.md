@@ -1,0 +1,1 @@
+- O servidor definido no codigo "serv_dados_central.py" eh o servidor de dados centralizados. Ele pode ser inicializado antes de qualquer um.
